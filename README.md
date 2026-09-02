@@ -57,7 +57,7 @@ A modern, creative expense tracking system built with PHP and MySQL featuring a 
 
 Open your browser and navigate to:
 ```
-http://localhost/expense-tracker/index.php
+http://localhost/software/index.php
 ```
 OR
 ```
