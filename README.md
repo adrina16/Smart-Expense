@@ -61,7 +61,7 @@ http://localhost/software/index.php
 ```
 OR
 ```
-http://localhost/index.php
+http://localhost/software/
 ```
 
 ## 📊 Usage
