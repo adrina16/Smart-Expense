@@ -6,8 +6,8 @@ A modern, creative expense tracking system built with PHP and MySQL featuring a 
 ## 📸 Project Screenshots
 
 ### Screenshot 1
-![Screenshot 1](Screenshot 2026-03-15 152312.png)
 
+![Screenshot 1](Screenshot%202026-03-15%20152312.png)
 ## ✨ Features
 
 - **Add Expenses**: Track expenses by category with descriptions and dates
